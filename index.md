@@ -12,13 +12,13 @@ title: Rui Liu
     
     <p> Advisor: <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> </p>
     
-    <p>Research Interest: Reinforcement Learning, Optimization, Multi-agent systems </p>
+    <p>Research Interest: Reinforcement Learning; Optimization; Multi-agent systems </p>
     
    <p> Education: </p>
     
-      <p> :mortar_board: University of Chinese Academy of Sciences, M.S., Operations Research and Cybernetics (2017) </p>
+      <p> 🎓 University of Chinese Academy of Sciences, M.S., Operations Research and Cybernetics (2017) </p>
     
-      <p> :mortar_board: Nankai University, B.S., Statistics (2014)  </p>
+      <p> 🎓 Nankai University, B.S., Statistics (2014)  </p>
     
   </div>
 </div>
