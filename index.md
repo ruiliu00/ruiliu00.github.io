@@ -9,6 +9,7 @@ title: Rui Liu
   </div>
   <div>
     <h2> Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering(SE)</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a> </h2>
+    
     Advisor: <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> 
     
     Research Interest: Reinforcement Learning, Optimization, Multi-agent systems
@@ -17,6 +18,7 @@ title: Rui Liu
       :mortar_board: University of Chinese Academy of Sciences, M.S., Operations Research and Cybernetics (2017)
     
       :mortar_board: Nankai University, B.S., Statistics (2014) 
+    
   </div>
 </div>
 
