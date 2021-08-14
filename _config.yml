@@ -11,18 +11,19 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true       # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false            # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "CV.pdf", title: "CV"}
+  - {file: "CV.pdf", title: "CV"}
   - {file: "index.html"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:rliu@bu.edu"}
+  - {title: Linkin, icon: linkin, url: "https://www.linkedin.com/in/rui-liu-23420a1a5/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
