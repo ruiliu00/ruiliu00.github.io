@@ -1,4 +1,7 @@
+---
+layout: page
 
+---
 
 Rui Liu
 ======
