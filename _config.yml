@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rliu@bu.edu"}
-  - {title: Linkin, icon: linkedin-in, url: "https://www.linkedin.com/in/rui-liu-23420a1a5/"}
+  - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/rui-liu-23420a1a5/"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=fU2mL7UAAAAJ&hl=en"}
 
 comments:
