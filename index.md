@@ -21,7 +21,10 @@ title:
     
       <p> 🎓 Nankai University, B.S., Statistics (2014)  </p>
     
-    <p> Contact Information: rliu@bu.edu </p>
+    <p> Contact Information:  </p>
+    
+    <p> 📧Email:rliu@bu.edu </p>
+    <p> 🏢Office: 413 Photonics Center; 8 St. Mary St, Boston, MA, 02215 </p>
     
   </div>
 </div>
