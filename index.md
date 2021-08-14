@@ -21,6 +21,8 @@ title:
     
       <p> 🎓 Nankai University, B.S., Statistics (2014)  </p>
     
+    <p> Contact Information: rliu@bu.edu </p>
+    
   </div>
 </div>
 
