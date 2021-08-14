@@ -15,6 +15,7 @@ title: Rui Liu
     Research Interest: Reinforcement Learning, Optimization, Multi-agent systems
     
     Education:
+    
       :mortar_board: University of Chinese Academy of Sciences, M.S., Operations Research and Cybernetics (2017)
     
       :mortar_board: Nankai University, B.S., Statistics (2014) 
