@@ -10,7 +10,7 @@ title: Rui Liu
   <div>
     <h2> Ph.D candidate @ Boston University </h2>
     <p> <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Division of Systems Engineering (SE)</a> </p>
-    Advisor: <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a>
+    Advisor: <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> <p>
     Research Interest: 
     About me:
   </div>
