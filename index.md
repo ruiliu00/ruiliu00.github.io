@@ -9,7 +9,7 @@ title: Rui Liu
   </div>
   <div>
     <h2>Ph.D candidate @ Boston University</h2>
-    <p> [Division of Systems Engineering (SE)](https://www.bu.edu/eng/departments/se/)</p>
+    <p> <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Division of Systems Engineering (SE)</a> </p>
   </div>
 </div>
 
