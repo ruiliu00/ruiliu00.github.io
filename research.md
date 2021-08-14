@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Research"
+---
 
 {% if site.show_excerpts %}
   {% include home.html %}
