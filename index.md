@@ -4,8 +4,8 @@ title: Rui Liu
 ---
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 1em;" width="335" height="560" >
-    <img src="IMG_0229.jpg" alt="">
+  <div style="float: left; margin-right 10%;">
+    <img src="IMG_0229.jpg" alt="" width="335" height="560">
   </div>
   <div>
     <h2>Ph.D candidate at Boston University</h2>
