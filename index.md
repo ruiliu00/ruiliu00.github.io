@@ -8,9 +8,9 @@ title: Rui Liu
     <img src="IMG_0229.jpg" alt="" width="335" height="560">
   </div>
   <div>
-    <h2>Ph.D candidate @ Boston University</h2>
+    <h2> Ph.D candidate @ Boston University </h2>
     <p> <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Division of Systems Engineering (SE)</a> </p>
-    <p> Advisor: <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> <p>
+    Advisor: <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a>
   </div>
 </div>
 
