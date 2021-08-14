@@ -9,7 +9,7 @@ title:
   </div>
   <div>
     <h1> Rui Liu </h1>
-    <h2> Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering(SE)</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a> </h2>
+    <h3> Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering(SE)</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a> </h3>
     
     <p> Advisor: <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> </p>
     
