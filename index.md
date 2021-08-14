@@ -5,7 +5,7 @@ title: Rui Liu
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="IMG_0229.jpg" alt="">
+    <img src="IMG_0229.jpg" alt="" width="402" height="552">
   </div>
   <div>
     <h2>Some title text</h2>
