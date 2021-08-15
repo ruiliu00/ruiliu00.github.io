@@ -14,7 +14,7 @@ title:
     
     <p> <strong>Advisor:</strong> <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> </p>
     
-    <p> <strong>Research Interests:</strong> Reinforcement Learning; Distributed Optimization; Multi-agent systems; Stochastic Approximation </p>
+    <p> <strong>Research Interests:</strong> Reinforcement Learning; Distributed Optimization; Multi-agent systems </p>
     
     <p> <strong>Education:</strong> </p>
     
