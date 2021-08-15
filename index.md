@@ -4,7 +4,7 @@ title:
 ---
 
 <div style="clear: both;">
-  <div style="float: left; margin-right:15px;">
+  <div style="float: left; margin-right:20px;">
     <img src="IMG_0229.jpg" alt="" width="335" height="560">
   </div>
   <div>
@@ -14,7 +14,7 @@ title:
     
     <p> <strong>Advisor:</strong> <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> </p>
     
-    <p> <strong>Research Interest:</strong> Reinforcement Learning; Optimization; Multi-agent systems </p>
+    <p> <strong>Research Interest:</strong> Reinforcement Learning; Optimizat ion; Multi-agent systems </p>
     
     <p> <strong>Education:</strong> </p>
     
