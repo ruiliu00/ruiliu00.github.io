@@ -16,7 +16,7 @@ minimal: false            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "http://ruiliu00.github.io/assets/CV.pdf"}
+  - {title: "CV", url: "http://ruiliu00.github.io/CV.pdf"}
   - {url: "research.md", title: "Research"}
   - {url: "publications.md", title: "Publications"}
   - {url: "experience.md", title: "Experience"}
