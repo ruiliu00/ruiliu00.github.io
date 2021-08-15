@@ -16,7 +16,7 @@ title:
     
     <p> <strong>Research Interest:</strong> </p> 
     
-    <p> &ensp;Reinforcement Learning; Optimization; Multi-agent systems </p>
+    <p> Reinforcement Learning; Optimization; Multi-agent systems </p>
     
     <p> <strong>Education:</strong> </p>
     
