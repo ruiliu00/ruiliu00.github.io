@@ -9,21 +9,23 @@ title:
   </div>
   <div>
     <h1> Rui Liu </h1>
+    
     <h3> Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering(SE)</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a> </h3>
     
     <p> <strong>Advisor:</strong> <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> </p>
     
     <p> <strong>Research Interest:</strong> Reinforcement Learning; Optimization; Multi-agent systems </p>
     
-   <p> <strong>Education:</strong> </p>
+    <p> <strong>Education:</strong> </p>
     
-      <p> 🎓 University of Chinese Academy of Sciences, M.S., Operations Research and Cybernetics (2017) </p>
+    <p> 🎓 University of Chinese Academy of Sciences, M.S., Operations Research and Cybernetics (2017) </p>
     
-      <p> 🎓 Nankai University, B.S., Statistics (2014)  </p>
+    <p> 🎓 Nankai University, B.S., Statistics (2014)  </p>
     
     <p> <strong>Contact Information:</strong>  </p>
     
     <p> 📧Email:rliu@bu.edu </p>
+    
     <p> 🏢Office: 413 Photonics Center; 8 St. Mary St, Boston, MA, 02215 </p>
     
   </div>
