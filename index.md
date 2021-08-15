@@ -14,9 +14,7 @@ title:
     
     <p> <strong>Advisor:</strong> <a href="https://sites.bu.edu/aolshevsky/" target="_blank"> Prof. Alex Olshevsky </a> </p>
     
-    <p> <strong>Research Interest:</strong> </p> 
-    
-    <p> Reinforcement Learning; Optimization; Multi-agent systems </p>
+    <p> <strong>Research Interest:</strong> Reinforcement Learning; Optimization; Multi-agent systems </p>
     
     <p> <strong>Education:</strong> </p>
     
