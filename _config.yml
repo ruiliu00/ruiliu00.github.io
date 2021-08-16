@@ -17,9 +17,9 @@ minimal: false            # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "http://ruiliu00.github.io/CV.pdf"}
-  - {url: "research.md", title: "Research"}
-  - {url: "http://ruiliu00.github.io/publications.md", title: "Publications"}
-  - {url: "experience.md", title: "Experience"}
+  - {file: "research.md", title: "Research"}
+  - {file: "publications.md", title: "Publications"}
+  - {file: "experience.md", title: "Experience"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rliu@bu.edu"}
