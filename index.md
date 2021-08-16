@@ -18,13 +18,13 @@ title:
     
     <p> <strong>Education:</strong> </p>
     
-    <p> 🎓 University of Chinese Academy of Sciences, M.S., Operations Research and Cybernetics (2017) </p>
+    <p> 🎓 <a href="https://english.ucas.ac.cn" target="_blank">University of Chinese Academy of Sciences</a>, M.S., Operations Research and Cybernetics (2017) </p>
     
-    <p> 🎓 Nankai University, B.S., Statistics (2014)  </p>
+    <p> 🎓<a href="https://en.nankai.edu.cn" target="_blank">Nankai University</a>, B.S., Statistics (2014)  </p>
     
     <p> <strong>Contact Information:</strong>  </p>
     
-    <p> 📧Email:rliu@bu.edu </p>
+    <p> 📧Email: rliu@bu.edu </p>
     
     <p> 🏢Office: 413 Photonics Center; 8 St. Mary St, Boston, MA, 02215 </p>
     
