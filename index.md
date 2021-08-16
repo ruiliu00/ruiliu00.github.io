@@ -22,12 +22,7 @@ title:
     
     <p> 🎓<a href="http://en.math.nankai.edu.cn" target="_blank">School of Mathematical Sciences</a>, <a href="https://en.nankai.edu.cn" target="_blank">Nankai University</a>, B.S., Statistics (2014)  </p>
     
-    <p> <strong>Contact Information:</strong>  </p>
-    
-    <p> 📧Email: rliu@bu.edu </p>
-    
-    <p> 🏢Office: 413 Photonics Center; 8 St. Mary St, Boston, MA, 02215 </p>
-    
+    <p> <strong>Contact Information:</strong>  📧Email: rliu@bu.edu </p> 
   </div>
 </div>
 
